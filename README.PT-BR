@@ -1,0 +1,13 @@
+# Invoice Alert System
+
+Sistema simples para alertar vencimento de notas fiscais.
+
+## Funcionalidades
+
+* Monitorar vencimento de NFs
+* Alertar quando estiver próximo do prazo
+* Automatizar acompanhamento financeiro
+
+## Tecnologias
+
+* Python
