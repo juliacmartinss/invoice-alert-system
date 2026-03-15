@@ -1,2 +1,11 @@
-# invoice-alert-system
-Python automation that alerts upcoming invoice due dates.
+# Invoice Alert System
+
+Sistema simples para alertar vencimento de notas fiscais.
+
+## Funcionalidades
+- Monitorar vencimento de NFs
+- Alertar quando estiver próximo do prazo
+- Automatizar acompanhamento financeiro
+
+## Tecnologias
+- Python
